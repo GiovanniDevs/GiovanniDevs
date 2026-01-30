@@ -20,7 +20,7 @@ Hi there! I'm a junior software developer with CI Diploma in progress. Skilled i
 
 ```yaml
  - Land my first role!
- - DevOps basics -> Linux, AWS (cloud), IaC, containerization (Docker), container orchestration (Kubernetes), CI/CD, Monitoring
+ - DevOps basics -> Linux, AWS, IaC, containerization (Docker), container orchestration (Kubernetes), CI/CD, Monitoring
  - Networking and personal projects
 ```
 Get in touch <br>
