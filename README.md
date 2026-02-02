@@ -1,5 +1,5 @@
 
-# 🤌🏼 Giovanni D'Amico
+# Giovanni D'Amico
 
 Hi I'm a **`Junior Full-Stack Dev`**  looking for my step in the industry.
 
