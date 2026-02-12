@@ -12,7 +12,7 @@ Hi there! I'm a junior software developer with CI Diploma in progress. Skilled i
 
 ### What's up right now
 
-- 🏗️ I’m currently working on a Blog project to practice Django
+- 🏗️ I’m currently working on my [final capstone project](https://github.com/GiovanniDevs/Project_problems) at CODE institute
 - 📖 I’m currently learning Django
 - 🚀 I've recently completed a [group project](https://github.com/GiovanniDevs/wild-cards) as Scrum master focussing on JavaScript
 
