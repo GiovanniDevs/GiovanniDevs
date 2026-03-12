@@ -13,10 +13,11 @@ Hi there! I'm a junior Full-Stack developer and I just completed an AI-Augmented
 ### What's up right now
 
 - 🔮 Up next: Taking my capstone project to AWS, excited to level up in Cloud deployment, Linux, and DevOps workflows.
-- 🏗️ Present: I’m currently working on my [final capstone project](https://github.com/GiovanniDevs/Project_problems) at CODE institute
-- 🚀 Past: I've recently completed my [final capstone project](https://github.com/GiovanniDevs/Project_problems), a full-stack Django platform where I built custom data models with full CRUD functionality, user authentication with Django Allauth, role-based access control, and deployed to Heroku with PostgreSQL.
+- 🚀 Past: I've recently completed my [final capstone project](https://github.com/GiovanniDevs/pomodoro-timer), a full-stack Django platform where I built custom data models with full CRUD functionality, user authentication with Django Allauth, role-based access control, and deployed to Heroku with PostgreSQL.
+
 
 ### Focus for 2026
+
 
 ```yaml
  - Land my first role!
